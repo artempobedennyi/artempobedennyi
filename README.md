@@ -1,6 +1,5 @@
 # **Hi there👋, I am Artem Pobedennyi (*a.k.a.* artempobedennyi)**
   
----
 ## :information_desk_person:  About Me
 #### Full-stack software developer with more than 7 years in the software development industry and high-level expert proficiency in: full stack and backend programming, cloud, databases, frontend web development, research and prototyping of technologies, collaboration with clients and product management to deliver software to production, deploy and monitor software systems in production.
 
@@ -21,7 +20,6 @@
   - Joomla
   - Drupal
 
----
 ## :wrench:  Skills and Tools
 <div align="center">
    <table>
